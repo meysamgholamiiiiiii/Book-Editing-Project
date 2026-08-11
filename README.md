@@ -1,86 +1,84 @@
 📖 Book Editing & Layout Portfolio
 
-Educational Book — Editing & Layout Project
+ Educational Book — Editing & Layout Project
 
-This project showcases my work in book editing, page layout, and visual formatting using Adobe InDesign.
+ This project showcases my work in book editing, page layout, and visual formatting using Adobe InDesign.
 
----
+ ✨ Project Overview
 
-✨ Project Overview
+ This project involved editing and refining the layout of an educational book designed for instructors.
 
-This project involved editing and refining the layout of an educational book designed for instructors.
+ My Role
 
-My Role
+ ✍️ Text Editing
 
-- ✍️ Text Editing
-- 📐 Page Layout
-- 🔤 Typography
-- 📄 Paragraph & Heading Formatting
-- 📊 Table & Element Formatting
-- 🔍 Final Layout Review
+ 📐 Page Layout
 
-Software
+ 🔤 Typography
 
-Adobe InDesign
+ 📄 Paragraph & Heading Formatting
 
----
+ 📊 Table & Element Formatting
 
-🔄 Before & After
+ 🔍 Final Layout Review
 
-The following examples demonstrate selected improvements made during the editing and layout process.
+ Software
 
-«Due to the confidential nature of this project, only selected pages are presented. The complete book and source files are not publicly available.»
+ Adobe InDesign
 
----
+ 🔄 Before & After
 
-Example 01
+ The following examples demonstrate selected improvements made during the editing and layout process.
+
+ Due to the confidential nature of this project, only selected pages are presented.  The complete book and source files are not publicly available.
+
+ Example 01
 
 Before
 
-"Before" (Before-After/before-01.jpg)
+￼
 
 After
 
-"After" (Before-After/after-01.jpg)
-
----
+￼
 
 Example 02
 
 Before
 
-"Before" (Before-After/before-02.jpg)
+￼
 
 After
 
-"After" (Before-After/after-02.jpg)
-
----
+￼
 
 Example 03
 
 Before
 
-"Before" (Before-After/before-03.jpg)
+￼
 
 After
 
-"After" (Before-After/after-03.jpg)
-
----
+￼
 
 🛠️ Editing Improvements
 
-- اصلاح فاصله‌گذاری و پاراگراف‌بندی
-- هماهنگ‌سازی تیترها
-- تنظیم فونت و اندازه متن
-- بهبود صفحه‌آرایی
-- تنظیم فاصله بین عناصر
-- بهبود خوانایی صفحات
-- ایجاد هماهنگی بصری بین صفحات
-- بررسی نهایی و کنترل کیفیت صفحه‌آرایی
+Adjust spacing and paragraphing
 
----
+Align headings
+
+Adjust font and text size
+
+Improve layout
+
+Adjust spacing between elements
+
+Improve page readability
+
+Create visual harmony between pages
+
+Final review and quality control of layout
 
 🔒 Confidentiality
 
