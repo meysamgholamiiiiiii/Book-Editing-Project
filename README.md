@@ -32,35 +32,29 @@
 
  Due to the confidential nature of this project, only selected pages are presented.  The complete book and source files are not publicly available.
 
- Example 01
+ ### Before
 
-Before
+![Before](<Before-After/before (1).png>)
 
-￼
+### After
 
-After
+![After](<Before-After/after (1).png>)
 
-￼
+### Before
 
-Example 02
+![Before](<Before-After/before (2).png>)
 
-Before
+### After
 
-￼
+![After](<Before-After/after (2).png>)
 
-After
+### Before
 
-￼
+![Before](<Before-After/before (3).png>)
 
-Example 03
+### After
 
-Before
-
-￼
-
-After
-
-￼
+![After](<Before-After/after (3).png>)
 
 🛠️ Editing Improvements
 
